@@ -27,3 +27,4 @@ echo "NEXT_PUBLIC_REOWN_PROJECT_ID=180a7164cfa9e5388daf1160841f65a0" > .env.loca
 echo "NEXT_PUBLIC_DEFAULT_CHAIN_ID=1" >> .env.local
 
 npm run dev
+Open http://localhost:3000 in a browser
